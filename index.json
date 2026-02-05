@@ -1,0 +1,76 @@
+[
+  {
+    "title": "Broken Streetlight on Main Street",
+    "description": "The streetlight near the bus stop is broken and has not been repaired for over a week.",
+    "category": "Streetlight",
+    "image": "https://example.com/images/streetlight1.jpg",
+    "location": "Main Street, Sector 5",
+    "status": "Pending",
+    "priority": "Normal",
+    "reportedBy": "user1@example.com",
+    "createdAt": "2025-12-08T10:00:00Z",
+    "timeline": []
+  },
+  {
+    "title": "Potholes on Elm Road",
+    "description": "Several large potholes on Elm Road causing traffic problems and minor accidents.",
+    "category": "Road",
+    "image": "https://example.com/images/potholes1.jpg",
+    "location": "Elm Road, Sector 2",
+    "status": "Pending",
+    "priority": "Normal",
+    "reportedBy": "user2@example.com",
+    "createdAt": "2025-12-08T11:00:00Z",
+    "timeline": []
+  },
+  {
+    "title": "Water Leakage near Park Entrance",
+    "description": "A continuous water leak near the park entrance flooding the walkway.",
+    "category": "Water Leakage",
+    "image": "https://example.com/images/water_leak1.jpg",
+    "location": "Park Entrance, Central Avenue",
+    "status": "Pending",
+    "priority": "Normal",
+    "reportedBy": "user3@example.com",
+    "createdAt": "2025-12-08T12:00:00Z",
+    "timeline": []
+  },
+  {
+    "title": "Overflowing Garbage Bin on 7th Street",
+    "description": "Garbage bin on 7th Street is overflowing and emitting a foul smell.",
+    "category": "Garbage",
+    "image": "https://example.com/images/garbage1.jpg",
+    "location": "7th Street, Sector 8",
+    "status": "Pending",
+    "priority": "Normal",
+    "reportedBy": "user4@example.com",
+    "createdAt": "2025-12-08T13:00:00Z",
+    "timeline": []
+  },
+  {
+    "title": "Damaged Footpath near School",
+    "description": "Footpath near Sunshine High School is cracked and dangerous for pedestrians.",
+    "category": "Footpath",
+    "image": "https://example.com/images/footpath1.jpg",
+    "location": "Sunshine High School, Sector 3",
+    "status": "Pending",
+    "priority": "Normal",
+    "reportedBy": "user5@example.com",
+    "createdAt": "2025-12-08T14:00:00Z",
+    "timeline": []
+  },
+  {
+    "title": "Streetlight Flickering near Market",
+    "description": "Streetlight near the central market flickers intermittently, causing poor visibility at night.",
+    "category": "Streetlight",
+    "image": "https://example.com/images/streetlight2.jpg",
+    "location": "Central Market, Sector 6",
+    "status": "Pending",
+    "priority": "Normal",
+    "reportedBy": "user6@example.com",
+    "createdAt": "2025-12-08T15:00:00Z",
+    "timeline": []
+  }
+  ]
+
+  
